@@ -15,7 +15,7 @@ Shoul be write the fist file, than second and ...
 Close.
 */
 
-public class Solution {
+public class AssembleFile {
     public static void main(String[] args) throws IOException{
         Scanner sc = new Scanner(System.in);
         String name="";
